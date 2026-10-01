@@ -1,0 +1,7 @@
+{
+  "name": "@boos-restaurant/food-types",
+  "version": "1.0.0",
+  "description": "Shared order and menu types published by the food service.",
+  "main": "index.js",
+  "types": "index.d.ts"
+}
